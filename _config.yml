@@ -1,4 +1,4 @@
 name: Arcana
 description: Arcana template for Jekyll test instance
 paginate: 10
-baseurl: 'meesa31.github.io'
+baseurl: ''
